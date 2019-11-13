@@ -1,0 +1,18 @@
+{
+    "startRequest": {
+        "time": 3,
+        "position": {
+            "latitude": 34.62,
+            "longitude": 133.92,
+            "altitude": 100
+        }
+    },
+    "goalRequest": {
+        "time": 30,
+        "position": {
+            "latitude": 34.62709152632126,
+            "longitude": 133.95273820708064,
+            "altitude": 100
+        }
+    }
+}
